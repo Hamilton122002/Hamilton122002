@@ -11,4 +11,6 @@
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square" />
 <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat-square" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square" />
- 
+<hr>
+![github stats](https://github-readme-stats.vercel.app/api?username=Hamilton122002)
+<img src="https://github-readme-stats.vercel.app/api?username=Hamilton122002" />
