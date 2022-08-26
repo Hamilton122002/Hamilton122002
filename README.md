@@ -1,7 +1,7 @@
 <h3 align = 'center'>Hello, I am Manav!</h3>
 <hr>
 <a href="https://www.instagram.com/mann__pahilwani/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/><br>
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
 <a href="https://twitter.com/MannPahilwani">
     <img alt="Twitter"src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/>
  <a href="https://www.linkedin.com/in/manav-pahilwani-a81a25207/">
