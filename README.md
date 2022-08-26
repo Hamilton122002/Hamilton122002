@@ -1,5 +1,6 @@
 <h3 align = 'center'>Hello, I am Manav!</h3>
 <hr>
+<h3>My Profiles!</h3>
 <a href="https://www.instagram.com/mann__pahilwani/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
 <a href="https://twitter.com/MannPahilwani">
