@@ -1,3 +1,4 @@
 <h3 align = 'center'>Hello, I am Manav!</h3>
 <hr>
-<h5>We can connect on- <br> Follow me on Instagram https://www.instagram.com/mann__pahilwani/<br>Follow me on Twitter https://twitter.com/MannPahilwani<br>My LinkedIn Profile </h5>
+<a href="https://www.instagram.com/mann__pahilwani/">My Instagram</a><br><a href="https://twitter.com/MannPahilwani">My Twitter</a>
+<br><a href="https://www.linkedin.com/in/manav-pahilwani-a81a25207/">My LinkedIn</a>
