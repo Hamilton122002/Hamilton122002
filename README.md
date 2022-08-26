@@ -17,3 +17,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Hamilton122002" />
     
 <img alt="Manav Pahilwani's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hamilton122002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+    
+<p align="center"><img alt="Manav Pahilwani's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamilton122002&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
