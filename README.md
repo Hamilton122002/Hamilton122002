@@ -1,5 +1,5 @@
 <h3 align = 'center'>Hello, I am Manav.</h3>
-<p>Tech Enthusiast, Aspiring Data Analyst<br>Fond of gaming trying new stuff and discovering new stuff in my free time.<br>New to github but it aspires me to keep making projects hereafter so yeah would be here for a pretty long time.<br>Can reach me at:- manavpahilwani.1202@gmail.com</p>
+<p>Tech Enthusiast, Aspiring Data Analyst<br>Fond of gaming trying new stuff and discovering new stuff in my free time.<br>New to github but it aspires me to keep making projects hereafter so yeah would be here for a pretty long time.<br></p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
