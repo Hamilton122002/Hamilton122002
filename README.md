@@ -20,3 +20,4 @@
     <img alt="Twitter"src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square"/>
 <a href="https://www.linkedin.com/in/manav-pahilwani-a81a25207/">
     <img alt="Linkedin"src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat-square"/>
+<p align="center"<a href="http://www.github.com/Hamilton122002"><img src="https://activity-graph.herokuapp.com/graph?username=Hamilton122002&bg_color=0D1117&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a></p>
