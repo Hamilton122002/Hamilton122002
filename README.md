@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on Recommender Systems<br>Interested and working towards being a Data Analyst<br>Ask me about Statistics and Data Pre-processing<br>
+Currently learning Statistics<br>Interested and working towards being a Data Analyst<br>Interested in working on Data Science and Analytics Projects<br>
 
 
 ## 🌐 Socials:
